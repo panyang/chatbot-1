@@ -1,0 +1,1 @@
+{'hey bud': ['hey', 'hi', 'hello', "what's up", 'hello son', 'sup son', 'sup sonny'], "how's it going": ['hello']}

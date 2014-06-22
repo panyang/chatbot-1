@@ -1,0 +1,1 @@
+['how is the weather', 'how is the weather', 'hi', 'hw', 'how are you', 'www', 'how are you', 'how are you', 'hello', 'Hello']

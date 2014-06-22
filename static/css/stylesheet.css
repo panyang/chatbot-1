@@ -1,0 +1,38 @@
+#head {
+	width: 100%;
+	background-color: blue;
+	height: 10%;
+}
+
+.chatbot {
+	background-color: gray;
+}
+
+#container {
+	position: relative;
+	margin-left: 15vw;
+	margin-right: 15vw;
+	width: 70vw;
+}
+
+#input {
+	display: inline-block;
+	float:left;
+	width:60vw;
+	border-radius: 10px;
+	font-size: 2em;
+}
+
+#chatsubmit {
+	background-color: blue;
+	float:right;
+	font-family: Impact;
+	font-size: 2em;
+	border-radius: 10px;
+}
+
+#formsubmit {
+	width: 100%;
+	margin-bottom: 2vh;
+	height: 3em;
+}
